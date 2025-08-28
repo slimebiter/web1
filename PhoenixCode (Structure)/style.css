@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to bottom, lightpink, chartreuse);}
+/* this is a comment vruh */
+h1 {
+    color: blue;
+    font-size:42px;
+    font-family: Futura}
+
+
+h2 {
+    color:indianred;
+    font-size:21px;
+    font-family: impact}
+
+
+p
+{color:#059f93;
+    font-size:12px; 
+    font-family:Hiragino Kaku Gothic Pro}
+
+
+.div2
+{background-color: chartreuse;
+width:200px;
+height:200px;
+margin:25px;
+padding: 10px;
+border: 3px solid grey;
+border-radius: 20px;}
+
+.div1
+{background-color: aqua;
+width:50%;
+height:50%;
+margin:25px;
+padding: 10px;
+border-top: 10px solid black;
+border-radius: 15px; }
